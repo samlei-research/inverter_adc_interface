@@ -1,0 +1,75 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri Mar 18 18:59:41 2022
+[*]
+[dumpfile] "/home/mzdev/StarkStromWorkspace/Umrichter/ADC/ncd98010_tb.ghw"
+[dumpfile_mtime] "Fri Mar 18 18:59:12 2022"
+[dumpfile_size] 39321
+[savefile] "/home/mzdev/StarkStromWorkspace/Umrichter/ADC/ncd98010_tb.gtkw"
+[timestart] 0
+[size] 1863 929
+[pos] -1 -1
+*-28.000000 603000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.ncd98010_tb.
+[treeopen] top.ncd98010_tb.u_ncd98010_master.
+[sst_width] 223
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+top.ncd98010_tb.sim_sclk
+@29
+top.ncd98010_tb.u_ncd98010_master.internal_clk
+@28
+top.ncd98010_tb.sim_csn
+@420
+top.ncd98010_tb.index_count
+top.ncd98010_tb.u_ncd98010_master.sample_count
+@28
+top.ncd98010_tb.clk
+@22
+#{top.ncd98010_tb.simulated_analog_value[11:0]} top.ncd98010_tb.simulated_analog_value[11] top.ncd98010_tb.simulated_analog_value[10] top.ncd98010_tb.simulated_analog_value[9] top.ncd98010_tb.simulated_analog_value[8] top.ncd98010_tb.simulated_analog_value[7] top.ncd98010_tb.simulated_analog_value[6] top.ncd98010_tb.simulated_analog_value[5] top.ncd98010_tb.simulated_analog_value[4] top.ncd98010_tb.simulated_analog_value[3] top.ncd98010_tb.simulated_analog_value[2] top.ncd98010_tb.simulated_analog_value[1] top.ncd98010_tb.simulated_analog_value[0]
+#{top.ncd98010_tb.sim_adc0_out[11:0]} top.ncd98010_tb.sim_adc0_out[11] top.ncd98010_tb.sim_adc0_out[10] top.ncd98010_tb.sim_adc0_out[9] top.ncd98010_tb.sim_adc0_out[8] top.ncd98010_tb.sim_adc0_out[7] top.ncd98010_tb.sim_adc0_out[6] top.ncd98010_tb.sim_adc0_out[5] top.ncd98010_tb.sim_adc0_out[4] top.ncd98010_tb.sim_adc0_out[3] top.ncd98010_tb.sim_adc0_out[2] top.ncd98010_tb.sim_adc0_out[1] top.ncd98010_tb.sim_adc0_out[0]
+#{top.ncd98010_tb.u_ncd98010_master.r_data0[11:0]} top.ncd98010_tb.u_ncd98010_master.r_data0[11] top.ncd98010_tb.u_ncd98010_master.r_data0[10] top.ncd98010_tb.u_ncd98010_master.r_data0[9] top.ncd98010_tb.u_ncd98010_master.r_data0[8] top.ncd98010_tb.u_ncd98010_master.r_data0[7] top.ncd98010_tb.u_ncd98010_master.r_data0[6] top.ncd98010_tb.u_ncd98010_master.r_data0[5] top.ncd98010_tb.u_ncd98010_master.r_data0[4] top.ncd98010_tb.u_ncd98010_master.r_data0[3] top.ncd98010_tb.u_ncd98010_master.r_data0[2] top.ncd98010_tb.u_ncd98010_master.r_data0[1] top.ncd98010_tb.u_ncd98010_master.r_data0[0]
+#{top.ncd98010_tb.u_ncd98010_master.adc0_out[11:0]} top.ncd98010_tb.u_ncd98010_master.adc0_out[11] top.ncd98010_tb.u_ncd98010_master.adc0_out[10] top.ncd98010_tb.u_ncd98010_master.adc0_out[9] top.ncd98010_tb.u_ncd98010_master.adc0_out[8] top.ncd98010_tb.u_ncd98010_master.adc0_out[7] top.ncd98010_tb.u_ncd98010_master.adc0_out[6] top.ncd98010_tb.u_ncd98010_master.adc0_out[5] top.ncd98010_tb.u_ncd98010_master.adc0_out[4] top.ncd98010_tb.u_ncd98010_master.adc0_out[3] top.ncd98010_tb.u_ncd98010_master.adc0_out[2] top.ncd98010_tb.u_ncd98010_master.adc0_out[1] top.ncd98010_tb.u_ncd98010_master.adc0_out[0]
+@28
+top.ncd98010_tb.u_ncd98010_master.r_data_enable0
+top.ncd98010_tb.u_ncd98010_master.adc0_data_valid
+@22
+#{top.ncd98010_tb.sim_adc1_out[11:0]} top.ncd98010_tb.sim_adc1_out[11] top.ncd98010_tb.sim_adc1_out[10] top.ncd98010_tb.sim_adc1_out[9] top.ncd98010_tb.sim_adc1_out[8] top.ncd98010_tb.sim_adc1_out[7] top.ncd98010_tb.sim_adc1_out[6] top.ncd98010_tb.sim_adc1_out[5] top.ncd98010_tb.sim_adc1_out[4] top.ncd98010_tb.sim_adc1_out[3] top.ncd98010_tb.sim_adc1_out[2] top.ncd98010_tb.sim_adc1_out[1] top.ncd98010_tb.sim_adc1_out[0]
+#{top.ncd98010_tb.u_ncd98010_master.r_data1[11:0]} top.ncd98010_tb.u_ncd98010_master.r_data1[11] top.ncd98010_tb.u_ncd98010_master.r_data1[10] top.ncd98010_tb.u_ncd98010_master.r_data1[9] top.ncd98010_tb.u_ncd98010_master.r_data1[8] top.ncd98010_tb.u_ncd98010_master.r_data1[7] top.ncd98010_tb.u_ncd98010_master.r_data1[6] top.ncd98010_tb.u_ncd98010_master.r_data1[5] top.ncd98010_tb.u_ncd98010_master.r_data1[4] top.ncd98010_tb.u_ncd98010_master.r_data1[3] top.ncd98010_tb.u_ncd98010_master.r_data1[2] top.ncd98010_tb.u_ncd98010_master.r_data1[1] top.ncd98010_tb.u_ncd98010_master.r_data1[0]
+#{top.ncd98010_tb.sim_adc2_out[11:0]} top.ncd98010_tb.sim_adc2_out[11] top.ncd98010_tb.sim_adc2_out[10] top.ncd98010_tb.sim_adc2_out[9] top.ncd98010_tb.sim_adc2_out[8] top.ncd98010_tb.sim_adc2_out[7] top.ncd98010_tb.sim_adc2_out[6] top.ncd98010_tb.sim_adc2_out[5] top.ncd98010_tb.sim_adc2_out[4] top.ncd98010_tb.sim_adc2_out[3] top.ncd98010_tb.sim_adc2_out[2] top.ncd98010_tb.sim_adc2_out[1] top.ncd98010_tb.sim_adc2_out[0]
+#{top.ncd98010_tb.sim_adc3_out[11:0]} top.ncd98010_tb.sim_adc3_out[11] top.ncd98010_tb.sim_adc3_out[10] top.ncd98010_tb.sim_adc3_out[9] top.ncd98010_tb.sim_adc3_out[8] top.ncd98010_tb.sim_adc3_out[7] top.ncd98010_tb.sim_adc3_out[6] top.ncd98010_tb.sim_adc3_out[5] top.ncd98010_tb.sim_adc3_out[4] top.ncd98010_tb.sim_adc3_out[3] top.ncd98010_tb.sim_adc3_out[2] top.ncd98010_tb.sim_adc3_out[1] top.ncd98010_tb.sim_adc3_out[0]
+@c00022
+#{top.ncd98010_tb.sim_adc4_out[11:0]} top.ncd98010_tb.sim_adc4_out[11] top.ncd98010_tb.sim_adc4_out[10] top.ncd98010_tb.sim_adc4_out[9] top.ncd98010_tb.sim_adc4_out[8] top.ncd98010_tb.sim_adc4_out[7] top.ncd98010_tb.sim_adc4_out[6] top.ncd98010_tb.sim_adc4_out[5] top.ncd98010_tb.sim_adc4_out[4] top.ncd98010_tb.sim_adc4_out[3] top.ncd98010_tb.sim_adc4_out[2] top.ncd98010_tb.sim_adc4_out[1] top.ncd98010_tb.sim_adc4_out[0]
+@28
+top.ncd98010_tb.sim_adc4_out[11]
+top.ncd98010_tb.sim_adc4_out[10]
+top.ncd98010_tb.sim_adc4_out[9]
+top.ncd98010_tb.sim_adc4_out[8]
+top.ncd98010_tb.sim_adc4_out[7]
+top.ncd98010_tb.sim_adc4_out[6]
+top.ncd98010_tb.sim_adc4_out[5]
+top.ncd98010_tb.sim_adc4_out[4]
+top.ncd98010_tb.sim_adc4_out[3]
+top.ncd98010_tb.sim_adc4_out[2]
+top.ncd98010_tb.sim_adc4_out[1]
+top.ncd98010_tb.sim_adc4_out[0]
+@1401200
+-group_end
+@22
+#{top.ncd98010_tb.sim_adc6_out[11:0]} top.ncd98010_tb.sim_adc6_out[11] top.ncd98010_tb.sim_adc6_out[10] top.ncd98010_tb.sim_adc6_out[9] top.ncd98010_tb.sim_adc6_out[8] top.ncd98010_tb.sim_adc6_out[7] top.ncd98010_tb.sim_adc6_out[6] top.ncd98010_tb.sim_adc6_out[5] top.ncd98010_tb.sim_adc6_out[4] top.ncd98010_tb.sim_adc6_out[3] top.ncd98010_tb.sim_adc6_out[2] top.ncd98010_tb.sim_adc6_out[1] top.ncd98010_tb.sim_adc6_out[0]
+#{top.ncd98010_tb.sim_adc5_out[11:0]} top.ncd98010_tb.sim_adc5_out[11] top.ncd98010_tb.sim_adc5_out[10] top.ncd98010_tb.sim_adc5_out[9] top.ncd98010_tb.sim_adc5_out[8] top.ncd98010_tb.sim_adc5_out[7] top.ncd98010_tb.sim_adc5_out[6] top.ncd98010_tb.sim_adc5_out[5] top.ncd98010_tb.sim_adc5_out[4] top.ncd98010_tb.sim_adc5_out[3] top.ncd98010_tb.sim_adc5_out[2] top.ncd98010_tb.sim_adc5_out[1] top.ncd98010_tb.sim_adc5_out[0]
+#{top.ncd98010_tb.sim_adc7_out[11:0]} top.ncd98010_tb.sim_adc7_out[11] top.ncd98010_tb.sim_adc7_out[10] top.ncd98010_tb.sim_adc7_out[9] top.ncd98010_tb.sim_adc7_out[8] top.ncd98010_tb.sim_adc7_out[7] top.ncd98010_tb.sim_adc7_out[6] top.ncd98010_tb.sim_adc7_out[5] top.ncd98010_tb.sim_adc7_out[4] top.ncd98010_tb.sim_adc7_out[3] top.ncd98010_tb.sim_adc7_out[2] top.ncd98010_tb.sim_adc7_out[1] top.ncd98010_tb.sim_adc7_out[0]
+#{top.ncd98010_tb.sim_adc8_out[11:0]} top.ncd98010_tb.sim_adc8_out[11] top.ncd98010_tb.sim_adc8_out[10] top.ncd98010_tb.sim_adc8_out[9] top.ncd98010_tb.sim_adc8_out[8] top.ncd98010_tb.sim_adc8_out[7] top.ncd98010_tb.sim_adc8_out[6] top.ncd98010_tb.sim_adc8_out[5] top.ncd98010_tb.sim_adc8_out[4] top.ncd98010_tb.sim_adc8_out[3] top.ncd98010_tb.sim_adc8_out[2] top.ncd98010_tb.sim_adc8_out[1] top.ncd98010_tb.sim_adc8_out[0]
+#{top.ncd98010_tb.sim_adc9_out[11:0]} top.ncd98010_tb.sim_adc9_out[11] top.ncd98010_tb.sim_adc9_out[10] top.ncd98010_tb.sim_adc9_out[9] top.ncd98010_tb.sim_adc9_out[8] top.ncd98010_tb.sim_adc9_out[7] top.ncd98010_tb.sim_adc9_out[6] top.ncd98010_tb.sim_adc9_out[5] top.ncd98010_tb.sim_adc9_out[4] top.ncd98010_tb.sim_adc9_out[3] top.ncd98010_tb.sim_adc9_out[2] top.ncd98010_tb.sim_adc9_out[1] top.ncd98010_tb.sim_adc9_out[0]
+#{top.ncd98010_tb.u_ncd98010_master.r_data9[11:0]} top.ncd98010_tb.u_ncd98010_master.r_data9[11] top.ncd98010_tb.u_ncd98010_master.r_data9[10] top.ncd98010_tb.u_ncd98010_master.r_data9[9] top.ncd98010_tb.u_ncd98010_master.r_data9[8] top.ncd98010_tb.u_ncd98010_master.r_data9[7] top.ncd98010_tb.u_ncd98010_master.r_data9[6] top.ncd98010_tb.u_ncd98010_master.r_data9[5] top.ncd98010_tb.u_ncd98010_master.r_data9[4] top.ncd98010_tb.u_ncd98010_master.r_data9[3] top.ncd98010_tb.u_ncd98010_master.r_data9[2] top.ncd98010_tb.u_ncd98010_master.r_data9[1] top.ncd98010_tb.u_ncd98010_master.r_data9[0]
+@28
+top.ncd98010_tb.u_ncd98010_master.r_data_enable9
+@22
+#{top.ncd98010_tb.u_ncd98010_master.adc9_out[11:0]} top.ncd98010_tb.u_ncd98010_master.adc9_out[11] top.ncd98010_tb.u_ncd98010_master.adc9_out[10] top.ncd98010_tb.u_ncd98010_master.adc9_out[9] top.ncd98010_tb.u_ncd98010_master.adc9_out[8] top.ncd98010_tb.u_ncd98010_master.adc9_out[7] top.ncd98010_tb.u_ncd98010_master.adc9_out[6] top.ncd98010_tb.u_ncd98010_master.adc9_out[5] top.ncd98010_tb.u_ncd98010_master.adc9_out[4] top.ncd98010_tb.u_ncd98010_master.adc9_out[3] top.ncd98010_tb.u_ncd98010_master.adc9_out[2] top.ncd98010_tb.u_ncd98010_master.adc9_out[1] top.ncd98010_tb.u_ncd98010_master.adc9_out[0]
+@28
+top.ncd98010_tb.u_ncd98010_master.adc9_data_valid
+[pattern_trace] 1
+[pattern_trace] 0
